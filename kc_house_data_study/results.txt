@@ -1,0 +1,66 @@
+Random Forest Regressor:
+n_estimators = 50, random_state=1
+train score: 0.9811490763223186
+test score: 0.8638795698304068
+mean_absolute_error: 73090.0121519638
+mean_squared_error: 21559181240.538227
+r2_score: 0.8638795698304068
+------------------------------
+MLPRegressor:
+hidden_layer_sizes=(18,18), random_state=1
+train score: 0.913146172324188
+test score: 0.8920707839732361
+mean_absolute_error: 74850.55987230982
+mean_squared_error: 17094168205.104492
+r2_score: 0.8920707839732361
+------------------------------
+Random Forest Regressor:
+n_estimators = 50, random_state=1
+train score: 0.9798926190692607
+test score: 0.8704711536284273
+mean_absolute_error: 69101.21753773183
+mean_squared_error: 14136933037.579042
+r2_score: 0.8704711536284274
+------------------------------
+MLPRegressor:
+hidden_layer_sizes=(18,18), random_state=1
+train score: 0.9025124378333936
+test score: 0.8779601948563508
+mean_absolute_error: 71930.88162413215
+mean_squared_error: 13319570131.00985
+r2_score: 0.8779601948563509
+------------------------------
+Random Forest Regressor:
+n_estimators = 50, random_state=1
+train score: 0.980206783056554
+test score: 0.8564780978685282
+mean_absolute_error: 60625.463095308594
+mean_squared_error: 8440746606.670375
+r2_score: 0.8564780978685281
+------------------------------
+MLPRegressor:
+hidden_layer_sizes=(18,18), random_state=1
+train score: 0.8895435417729487
+test score: 0.8547331360686166
+mean_absolute_error: 62143.45485603847
+mean_squared_error: 8543370527.985754
+r2_score: 0.8547331360686166
+------------------------------
+Random Forest Regressor:
+n_estimators = 50, random_state=1
+train score: 0.9818278325458664
+test score: 0.865905960559264
+mean_absolute_error: 72315.18951059016
+mean_squared_error: 21238235112.663452
+------------------------------
+MLPRegressor:
+hidden_layer_sizes=(18,18), random_state=1
+train score: 0.9169056103122893
+test score: 0.9052176016420547
+mean_absolute_error: 72407.64256547527
+mean_squared_error: 15011933932.811659
+------------------------------
+MLPRegressor:
+hidden_layer_sizes=(18,18), random_state=1
+train score: 0.8894023263746911
+test score: 0.8550300358562397
